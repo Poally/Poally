@@ -1,14 +1,15 @@
 👋 Hi, I’m Sadudee Poaliwat or you can call me Oak.
-I'm an QA Engineer for over a year, so my work is not 100% with coding.
-So this Github is created for my sandbox in purpose of learning new things
+I'm an QA Engineer for almost two years. Indeed, my work is not 100% invloved with coding.
+So this Github is created as my sandbox in purpose of learning new things.
 
-🚧Learning Projects
--React (in progress)
--cypress (95% done)
+🚧What am I learning
+-cypress.io
+-flutter
+-penetration testing
 -and more to come
 
-You can reach me by email: SadudeePoaliwat@gmail.com
-P.S. I have some doodle instagram, you can check it out at IG: @els.doodle
+You can reach me out by email: SadudeePoaliwat@gmail.com
+P.S. I do some doodle on instagram, you can check it out at IG: @els.doodle
 
 
 <!---
