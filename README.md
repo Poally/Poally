@@ -1,9 +1,11 @@
 👋 Hi, I’m Sadudee Poaliwat or you can call me Oak.
-I'm an QA Engineer for almost two years. Indeed, my work is not 100% invloved with coding.
+I'm an QA Engineer for almost two years. Indeed, my work is just partially coding in some part of product.
 So this Github is created as my sandbox in purpose of learning new things.
 
-🚧What am I learning
+🚧 What am I learning
 - cypress.io
+- javascript in frontend thing
+- kubernetes and some devops stuff
 - flask
 - and more to come
 
