@@ -1,6 +1,6 @@
 👋 Hi, I’m Sadudee Poaliwat or you can call me Oak.
-I'm an QA Engineer for almost three years. Mostly, my work is 70% coding on automate tests and 30% on development thing.
-So this Github is created as my sandbox in purpose of learning new things.
+I'm an QA Engineer for almost three years. Mostly, my work is 70% coding on automate tests and 30% on development thing (which is internally and non-disclosure :( ).
+So this Github is created as my sandbox in purpose of learning new things in freetime.
 
 🚧 What am I learning
 - javascript in frontend thing
